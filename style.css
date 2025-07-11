@@ -71,11 +71,11 @@ body {
 .signup-btn {
   background-color: #4f46e5;
   color: white;
-  padding: 10px 20px;
-  border-radius: 8px;
+  padding: 12px 24px;
+  border-radius: 6px;
   text-decoration: none;
   font-weight: 600;
-  transition: background 0.3s ease;
+  cursor: pointer;
 }
 
 .signup-btn:hover {
@@ -99,13 +99,14 @@ body {
 }
 
 .focus-btn {
-  background-color: #5853c8;
+  background-color: #4c4cff;
   color: white;
-  padding: 12px 15px;
-  border-radius: 20px;
-  text-decoration: none;
+  padding: 14px 24px;
+  font-size: 14px;
   font-weight: 700;
-  scroll-margin-top: 500px;
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 1900px;
 }
 
 .focus-btn:hover {
@@ -148,7 +149,7 @@ body {
   border: none;
   border-radius: 6px;
   cursor: pointer;
-  transition: background 0.3s ease;
+  
 }
 
 .preview-button:hover {
@@ -281,7 +282,7 @@ body {
   border: none;
   border-radius: 6px;
   cursor: pointer;
-  transition: background 0.3s ease;
+
 }
 .cta-button:hover {
   background-color: #3737e0;
