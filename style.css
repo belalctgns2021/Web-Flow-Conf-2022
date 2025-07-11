@@ -78,9 +78,6 @@ body {
   cursor: pointer;
 }
 
-.signup-btn:hover {
-  background-color: #4338ca;
-}
 
 
 
@@ -109,9 +106,6 @@ body {
   margin-bottom: 100px;
 }
 
-.focus-btn:hover {
-  background-color: #4036a9;
-}
 
 
 /* Belal Hossain Section 2:*/
@@ -152,9 +146,6 @@ body {
   
 }
 
-.preview-button:hover {
-  background-color: #3737e0;
-}
 
 .image-section img {
   width: 360px;
@@ -283,10 +274,7 @@ body {
   border-radius: 6px;
   cursor: pointer;
 
-}
-.cta-button:hover {
-  background-color: #3737e0;
-}
+
 
 .image-wrapper {
   margin-top: 40px;
