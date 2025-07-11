@@ -352,22 +352,20 @@ body {
   padding: 60px 20px;
 }
 
-.logo {
-  color: #4c4cff;
-  font-size: 48px;
-  font-weight: 800;
-  margin-bottom: 20px;
-}
 .description {
   color: #888;
   font-size: 16px;
   max-width: 600px;
   margin: 0 auto 30px;
 }
+ 
 
-.nav-links a {
-  margin: 0 15px;
-  color: #777;
-  text-decoration: none;
+.nav-links ul a{
+  margin: 15px 15px;
   font-weight: 500;
+  color: #853ddd;
+}
+.nav-links ul{
+  display: flex;
+  margin: 0px 500px;
 }
